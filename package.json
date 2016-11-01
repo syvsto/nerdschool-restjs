@@ -1,0 +1,25 @@
+{
+  "name": "nerdschool-restjs",
+  "version": "1.0.0",
+  "description": "REST API Workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syvsto/nerdschool-restjs.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Syver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syvsto/nerdschool-restjs/issues"
+  },
+  "homepage": "https://github.com/syvsto/nerdschool-restjs#readme"
+}
